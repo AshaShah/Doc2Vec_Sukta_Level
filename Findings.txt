@@ -1,0 +1,9 @@
+Sanskrit USING LSA embeddings doesn't form good results
+
+D2V embeddings for Sanskrit text is okay but for griff and jamison not so good 
+
+dm=1 for doc2vec behave like lsa
+
+when two famous group is in same cluster, run same thing for that specific cluster and try to break it into the number of as per required.
+Compare between generated cluster 
+ARI and AMI
