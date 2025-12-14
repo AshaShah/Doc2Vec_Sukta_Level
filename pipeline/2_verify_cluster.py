@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from pathlib import Path
 
 # --- Load leiden clusters file ---
-csv_path = Path("leiden_doc2vec_clusters.csv")  # assumes file in same folder as notebook
+csv_path = Path("cluster_output.csv")  # assumes file in same folder as notebook
 df = pd.read_csv(csv_path)
 
 # Identify columns
@@ -53,4 +53,4 @@ result = pd.DataFrame(records)
 # --- Save minimal output in current folder ---
 out_path = Path("suktas_clusters_with_graph.csv")
 result.to_csv(out_path, index=False)
-print(f"✅ Saved in current directory → {out_path.resolve()}")
+print(f"Saved in current directory → {out_path.resolve()}")

@@ -1,0 +1,8 @@
+Topic,Best_Cluster,Matched_in_Cluster,Precision,Recall,Fscore,Topic_Total,Cluster_Size,Overlap
+Marut,1,14 of 14,0.368,1.0,0.538,14,38,14
+Heaven & Earth,8,5 of 6,0.5,0.833,0.625,6,10,5
+Brihaspati,6,6 of 9,0.75,0.667,0.706,9,8,6
+Funeral,-1,7 of 12,0.034,0.583,0.064,12,208,7
+Creation,25,5 of 9,0.455,0.556,0.5,9,11,5
+Water,-1,3 of 6,0.014,0.5,0.028,6,208,3
+Surya,-1,5 of 16,0.024,0.312,0.045,16,208,5

@@ -1,5 +1,5 @@
-./embeddings_d2v_unwe_sans/*
-./embeddings_d2v_we_sans/*  
+./sans_d2v_unwe/*
+./sans_d2v_we/*  
 ./embeddings_lsa_sans/*
 ./embeddings_lsa_grif/*
 ./embeddings_lsa_jemison/*
